@@ -2,12 +2,12 @@
 # MiniMind 从零训练实践
 
 ## 项目简介
-基于 MiniMind 项目，从零完成一个小型语言模型的预训练与监督微调，
-理解 Decoder-Only Transformer 的训练全流程。
+基于 MiniMind 项目，体验模型训练流程，借此机会学习大模型的各种理论。
+
 
 ## 我的工作
 - 在单张 RTX 4090 上完成预训练与 SFT
-- 独立解决环境配置、CUDA 兼容、数据挂载等问题
+- 解决环境配置、CUDA 兼容、数据挂载等问题
 - 调整 batch size / learning rate，对比 loss 曲线变化
 - 整理完整训练日志与踩坑记录
 
