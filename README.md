@@ -15,6 +15,5 @@
 Python, PyTorch, Transformers, CUDA, AutoDL, Git
 
 ## 目录说明
-- docs/：分阶段实验记录
-- results/：loss 曲线与模型输出
-- notes/：问题与解决记录
+- logs：实验日志
+- images：图片
