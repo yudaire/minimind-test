@@ -1,5 +1,5 @@
 # minimind-test
-# MiniMind 从零训练实践
+# MiniMind 复现
 
 ## 项目简介
 复现 MiniMind 项目，体验模型训练流程。
