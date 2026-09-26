@@ -2,7 +2,7 @@
 # MiniMind 从零训练实践
 
 ## 项目简介
-基于 MiniMind 项目，体验模型训练流程，借此机会学习大模型的各种理论。
+复现 MiniMind 项目，体验模型训练流程。
 
 
 ## 我的工作
@@ -13,17 +13,6 @@
 
 ## 技术栈
 Python, PyTorch, Transformers, CUDA, AutoDL, Git
-
-## 进度
-- [x] 本地准备 Git / VS Code
-- [x] 租用 GPU
-- [x] VS Code 远程连接
-- [x] 克隆 minimind 代码
-- [x] 安装依赖
-- [ ] 下载数据集
-- [ ] 预训练
-- [ ] SFT
-- [ ] 推理测试
 
 ## 目录说明
 - docs/：分阶段实验记录
